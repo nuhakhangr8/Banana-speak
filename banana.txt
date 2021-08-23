@@ -1,0 +1,29 @@
+-why is the script tag in the body
+unlike style in head
+
+A.1.("textarea")
+  2.(".btn-primary")
+  3.("#input-btn")
+  4.input[name='translator']
+
+bonus 
+Q. bonus (Optional) blog: write a blog about the selectors. Have some complex quizzes to test the learning.
+
+Q. innerText writes text.
+innerHTML write HTML directly
+1 creating a DOM. element using document.createElement(),
+2 or using document.createTextNode() to create textNode,
+3and then insert it using insertBefore() and appendChild().
+Explore these pieces and write blogs on it when you understand this.
+
+Q.bonus (Optional) homework
+We did CLI exercies around leap year and prime numbers. For practice you should make both these apps now in browser. It would be much more visual and easy to use! :)
+
+Q.Read about HTTP methods: GET, POST, PUT, DELETE etc.
+
+Call the server above with different text and see the contents of text reflect back on what you sent.
+
+Does this work for you?
+
+forgot how to do server calls with different text
+
