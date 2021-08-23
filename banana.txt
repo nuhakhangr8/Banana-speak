@@ -1,4 +1,31 @@
--why is the script tag in the body
+Q7.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---why is the script tag in the body
 unlike style in head
 
 A.1.("textarea")
@@ -7,23 +34,30 @@ A.1.("textarea")
   4.input[name='translator']
 
 bonus 
-Q. bonus (Optional) blog: write a blog about the selectors. Have some complex quizzes to test the learning.
+Q1. bonus (Optional) blog: write a blog about the selectors. Have some complex quizzes to test the learning.
 
-Q. innerText writes text.
+Q2. innerText writes text.
 innerHTML write HTML directly
 1 creating a DOM. element using document.createElement(),
 2 or using document.createTextNode() to create textNode,
 3and then insert it using insertBefore() and appendChild().
 Explore these pieces and write blogs on it when you understand this.
 
-Q.bonus (Optional) homework
+Q3.bonus (Optional) homework
 We did CLI exercies around leap year and prime numbers. For practice you should make both these apps now in browser. It would be much more visual and easy to use! :)
 
-Q.Read about HTTP methods: GET, POST, PUT, DELETE etc.
+Q4.Read about HTTP methods: GET, POST, PUT, DELETE etc.
 
-Call the server above with different text and see the contents of text reflect back on what you sent.
+Q5.Call the server above with different text and see the contents of text reflect back on what you sent.
+without using arrow functions
+Q6.before fetch, xhr was used extensively, you can read about it online.
+BONUS (Optional): Look into encodeURI() and use it to make sure the URL is encoded. Learn why encoding is needed.
+----here in errorHAndler, clickhandler we are not using passing arguments
+Q7bonus (optional) exercise: style it up,styling this banana app----inspiration from despicable me movie
+[sometimes you work with mock APIs and then use PROD API in production. this is a good practice for that. generally, in real life we have env variables which tells the software where it is hosted and depending on the environment the API and many other settings are used.
 
-Does this work for you?
+think of payment site, to test it while developing will the developer always use real credit card to test the site? No, that's why there are fake CC.]
+M7. take any of the translation APIs on the website and use it to create your own fun translation app. Give it your own style, maybe use some SVGs. Give it your own flair. And if you don't get any ideas don't do much just change the color and font and you'll have a new app.
+ideas---shakespeare,donald trump,phineas and ferb
 
-forgot how to do server calls with different text
 
