@@ -59,5 +59,4 @@ Q7bonus (optional) exercise: style it up,styling this banana app----inspiration 
 think of payment site, to test it while developing will the developer always use real credit card to test the site? No, that's why there are fake CC.]
 M7. take any of the translation APIs on the website and use it to create your own fun translation app. Give it your own style, maybe use some SVGs. Give it your own flair. And if you don't get any ideas don't do much just change the color and font and you'll have a new app.
 ideas---shakespeare,donald trump,phineas and ferb
-
-
+asynchronous programming,Async programming, event loop, callbacks, promises---Important concepts--for interviews
