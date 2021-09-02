@@ -1,0 +1,35 @@
+body{
+    margin:0px;
+}
+textarea{
+    width: 500px;
+    height: 100px;
+    display: block;
+    padding: 1rem;
+    padding-left: 1rem;
+    margin: 1rem;
+
+}
+#output{
+    width: 500px;
+    height: 100px;
+    display: block;
+    padding: 1rem;
+    padding-left: 1rem;
+    margin: 1rem;
+    border: 1px solid black;
+
+}
+nav{
+   
+    padding: 1rem 1rem;
+    margin: auto;
+}
+ul{
+    list-style: none;
+    text-align: left;
+}
+.link{
+    text-decoration: none;
+    text-align: left;
+}
