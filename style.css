@@ -8,7 +8,9 @@ textarea{
     padding: 1rem;
     padding-left: 1rem;
     margin: 1rem;
-
+    margin-top: 3rem;
+    margin-left: 25%;
+    ;
 }
 #output{
     width: 500px;
@@ -18,7 +20,7 @@ textarea{
     padding-left: 1rem;
     margin: 1rem;
     border: 1px solid black;
-
+    margin-left: 25%;
 }
 nav{
    
@@ -31,5 +33,47 @@ ul{
 }
 .link{
     text-decoration: none;
-    text-align: left;
+    text-align: center;
+    color:black;
+}
+.hero{
+    text-align: center;
+    font-size: 5rem;
+    margin-right: 8rem;
+}
+nav{
+    background-color: orange;
+    padding: 1rem;
+    margin:auto;
+    height: 6rem;
+}
+
+button{
+    text-align: center;
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-left:35rem;
+
+    background-color: palegoldenrod;
+}
+
+.text{
+    margin-left: 350px;
+    
+}
+.list{
+    text-align: center;
+    margin-right: 12rem;
+}
+.mark-li{
+    text-align: center;
+    margin-right: 12rem;
+}
+.marklink{
+    text-decoration: none;
+    color: black;
+}
+.link-active{
+    font-weight: bold;
 }
